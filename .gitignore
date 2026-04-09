@@ -1,0 +1,26 @@
+# Build output
+**/bin/
+**/obj/
+
+# User-specific files
+**/*.user
+**/*.suo
+
+# VS / VS Code
+.vs/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Docker
+**/node_modules/
+**/bin/
+**/obj/

@@ -1,0 +1,9 @@
+# PulseIngest
+
+Simple C#/.NET data ingestion service with PostgreSQL.
+
+## Run
+
+docker run -d -p 5433:5432 postgres:15
+
+dotnet run
